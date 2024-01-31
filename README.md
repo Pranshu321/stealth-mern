@@ -51,7 +51,7 @@ We welcome contributions from the community! If you have ideas for new features,
 
 <h2 align="center">Meet the Team</h2> 
 
-- Project Lead: Your Name
+- Project Lead: Pranshu Jain
   
 - Email: [Your Email](mailto:pranshujain0111@gmail.com)
 
